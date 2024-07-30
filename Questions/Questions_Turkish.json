@@ -133,132 +133,132 @@
 "Phase2" : 
 [
     {
-        "Question": "What is the primary goal of validating a startup solution?",
-        "CorrectAnswer": "To ensure the solution solves the problem effectively",
-        "WrongAnswer1": "To maximize the initial investment",
-        "WrongAnswer2": "To finalize the product features",
-        "WrongAnswer3": "To measure the product's market demand",
-        "Info": "The primary goal of solution validation is to ensure the solution effectively resolves the identified problem, thereby confirming its feasibility and market fit."
+        "Question": "Bir startup çözümünü doğrulamanın temel amacı nedir?",
+        "CorrectAnswer": "Çözümün problemi etkili bir şekilde çözdüğünden emin olmak",
+        "WrongAnswer1": "Başlangıç yatırımı maksimize etmek",
+        "WrongAnswer2": "Ürün özelliklerini finalize etmek",
+        "WrongAnswer3": "Ürünün pazar talebini ölçmek",
+        "Info": "Çözüm doğrulamanın temel amacı, çözümün belirlenen problemi etkili bir şekilde çözdüğünden emin olmak ve bu sayede uygulanabilirliğini ve pazar uyumunu doğrulamaktır."
     },
     {
-        "Question": "Which method is commonly used to validate a solution in the early stages?",
-        "CorrectAnswer": "Conducting a pilot test",
-        "WrongAnswer1": "Launching a full-featured product",
-        "WrongAnswer2": "Consulting industry experts",
-        "WrongAnswer3": "Gathering feedback from internal stakeholders",
-        "Info": "Conducting a pilot test allows startups to test their solution in a real-world environment on a small scale, providing practical insights without the risks of a full launch."
+        "Question": "Erken aşamalarda bir çözümü doğrulamak için yaygın olarak kullanılan yöntem nedir?",
+        "CorrectAnswer": "Pilot test gerçekleştirmek",
+        "WrongAnswer1": "Tam özellikli bir ürün piyasaya sürmek",
+        "WrongAnswer2": "Sektör uzmanlarıyla danışmak",
+        "WrongAnswer3": "İç paydaşlardan geri bildirim toplamak",
+        "Info": "Pilot test gerçekleştirmek, startup'ların çözümünü küçük ölçekli olarak gerçek dünya ortamında test etmelerini sağlar ve tam bir lansmanın riskleri olmadan pratik içgörüler sunar."
     },
     {
-        "Question": "Why is it important for startups to have a minimal viable product (MVP)?",
-        "CorrectAnswer": "To test the market with the core features",
-        "WrongAnswer1": "To reduce the development costs",
-        "WrongAnswer2": "To attract early-stage investors",
-        "WrongAnswer3": "To streamline the production process",
-        "Info": "An MVP is crucial because it allows startups to test the market with the core features of their product, gathering valuable user feedback for further development and iterations."
+        "Question": "Startup'ların minimum uygulanabilir ürüne (MVP) sahip olması neden önemlidir?",
+        "CorrectAnswer": "Pazarı temel özelliklerle test etmek için",
+        "WrongAnswer1": "Geliştirme maliyetlerini azaltmak için",
+        "WrongAnswer2": "Erken aşama yatırımcıları çekmek için",
+        "WrongAnswer3": "Üretim sürecini basitleştirmek için",
+        "Info": "MVP önemlidir çünkü startup'ların ürünlerinin temel özellikleriyle pazarı test etmelerini sağlar, daha fazla geliştirme ve iterasyon için değerli kullanıcı geri bildirimi toplar."
     },
     {
-        "Question": "What should a startup focus on when collecting feedback on their MVP?",
-        "CorrectAnswer": "The quality and relevance of the feedback",
-        "WrongAnswer1": "The quantity of the feedback",
-        "WrongAnswer2": "The speed of acquiring feedback",
-        "WrongAnswer3": "The diversity of feedback sources",
-        "Info": "The focus should be on the quality and relevance of the feedback, as it provides deeper insights into how well the MVP meets user needs and expectations."
+        "Question": "Bir startup, MVP'leri hakkında geri bildirim toplarken neye odaklanmalıdır?",
+        "CorrectAnswer": "Geri bildirimin kalitesi ve önemi",
+        "WrongAnswer1": "Geri bildirimin miktarı",
+        "WrongAnswer2": "Geri bildirimi alma hızı",
+        "WrongAnswer3": "Geri bildirim kaynaklarının çeşitliliği",
+        "Info": "Odak, geri bildirimin kalitesi ve önemi üzerinde olmalıdır, çünkü bu, MVP'nin kullanıcı ihtiyaçlarını ve beklentilerini ne kadar iyi karşıladığını derinlemesine anlamayı sağlar."
     },
     {
-        "Question": "Which is an effective way to gather user feedback during solution validation?",
-        "CorrectAnswer": "All of the above",
-        "WrongAnswer1": "Online surveys",
-        "WrongAnswer2": "User interviews",
-        "WrongAnswer3": "A/B testing",
-        "Info": "Combining online surveys, user interviews, and A/B testing provides comprehensive feedback from different angles, enhancing the understanding of user interaction and satisfaction."
+        "Question": "Çözüm doğrulama sırasında kullanıcı geri bildirimini toplamanın etkili bir yolu nedir?",
+        "CorrectAnswer": "Hepsi",
+        "WrongAnswer1": "Çevrimiçi anketler",
+        "WrongAnswer2": "Kullanıcı röportajları",
+        "WrongAnswer3": "A/B testleri",
+        "Info": "Çevrimiçi anketler, kullanıcı röportajları ve A/B testlerini birleştirmek, kullanıcı etkileşimi ve memnuniyetini anlama açısından farklı açılardan kapsamlı geri bildirim sağlar."
     },
     {
-        "Question": "What role do early adopters play in the validation process?",
-        "CorrectAnswer": "They act as primary feedback sources",
-        "WrongAnswer1": "They provide initial funding",
-        "WrongAnswer2": "They help refine the marketing strategy",
-        "WrongAnswer3": "They determine the final product design",
-        "Info": "Early adopters are crucial in the validation process as they provide actionable feedback that helps refine the product based on their experiences and expectations."
+        "Question": "Doğrulama sürecinde erken benimseyenlerin rolü nedir?",
+        "CorrectAnswer": "Birincil geri bildirim kaynakları olarak hareket ederler",
+        "WrongAnswer1": "İlk finansmanı sağlarlar",
+        "WrongAnswer2": "Pazarlama stratejisini rafine etmeye yardımcı olurlar",
+        "WrongAnswer3": "Nihai ürün tasarımını belirlerler",
+        "Info": "Erken benimseyenler, doğrulama sürecinde kritik rol oynarlar çünkü deneyimlerine ve beklentilerine dayanarak ürünün iyileştirilmesine yardımcı olan eyleme dönüştürülebilir geri bildirim sağlarlar."
     },
     {
-        "Question": "How should a startup react if initial validation feedback is negative?",
-        "CorrectAnswer": "Analyze the feedback for patterns",
-        "WrongAnswer1": "Pivot immediately to a new solution",
-        "WrongAnswer2": "Ignore the feedback and continue as planned",
-        "WrongAnswer3": "Reduce the product's price",
-        "Info": "Negative feedback should be analyzed for patterns and common issues, which can guide necessary adjustments and improvements to the product."
+        "Question": "Başlangıç doğrulama geri bildirimi olumsuz olursa bir startup nasıl tepki vermelidir?",
+        "CorrectAnswer": "Geri bildirimdeki desenleri analiz edin",
+        "WrongAnswer1": "Hemen yeni bir çözüme yönelin",
+        "WrongAnswer2": "Geri bildirimi görmezden gelin ve planlandığı gibi devam edin",
+        "WrongAnswer3": "Ürünün fiyatını düşürün",
+        "Info": "Olumsuz geri bildirim, desenleri ve ortak sorunları belirlemek için analiz edilmelidir, bu da üründe gerekli ayarlamaları ve iyileştirmeleri yönlendirebilir."
     },
     {
-        "Question": "What is the benefit of conducting split tests during the solution validation phase?",
-        "CorrectAnswer": "Identifying the most effective product features",
-        "WrongAnswer1": "Minimizing financial risk",
-        "WrongAnswer2": "Reducing time to market",
-        "WrongAnswer3": "All of the above",
-        "Info": "Conducting split tests helps identify which product features are most effective and preferred by users, enabling targeted improvements."
+        "Question": "Çözüm doğrulama aşamasında bölünmüş testler yapmanın faydası nedir?",
+        "CorrectAnswer": "En etkili ürün özelliklerini belirlemek",
+        "WrongAnswer1": "Finansal riski en aza indirmek",
+        "WrongAnswer2": "Pazara giriş süresini azaltmak",
+        "WrongAnswer3": "Hepsi",
+        "Info": "Bölünmüş testler yapmak, kullanıcılar tarafından en etkili ve tercih edilen ürün özelliklerini belirlemeye yardımcı olur, hedefli iyileştirmeler sağlar."
     },
     {
-        "Question": "Which metric is crucial when validating a new solution?",
-        "CorrectAnswer": "Customer satisfaction score",
-        "WrongAnswer1": "Number of active users",
-        "WrongAnswer2": "Cost per acquisition",
-        "WrongAnswer3": "Lifetime value of a customer",
-        "Info": "Customer satisfaction score is crucial as it directly reflects the users' happiness and satisfaction with the solution, indicating its success and acceptance."
+        "Question": "Yeni bir çözümü doğrularken hangi metrik önemlidir?",
+        "CorrectAnswer": "Müşteri memnuniyeti puanı",
+        "WrongAnswer1": "Aktif kullanıcı sayısı",
+        "WrongAnswer2": "Edinme başına maliyet",
+        "WrongAnswer3": "Müşterinin yaşam boyu değeri",
+        "Info": "Müşteri memnuniyeti puanı önemlidir çünkü doğrudan kullanıcıların çözümle ilgili mutluluğunu ve memnuniyetini yansıtır, çözümün başarısını ve kabulünü gösterir."
     },
     {
-        "Question": "Why is it important to validate a solution with real users and not just with internal teams?",
-        "CorrectAnswer": "All of the above",
-        "WrongAnswer1": "Internal teams may not represent the target market",
-        "WrongAnswer2": "Real users provide unbiased feedback",
-        "WrongAnswer3": "Real users test the solution in diverse environments",
-        "Info": "Validating with real users is essential as they provide unbiased feedback, represent the target market, and test the solution in a variety of real-world environments."
+        "Question": "Neden bir çözümü sadece iç ekiplerle değil, gerçek kullanıcılarla doğrulamak önemlidir?",
+        "CorrectAnswer": "Hepsi",
+        "WrongAnswer1": "İç ekipler hedef pazarı temsil etmeyebilir",
+        "WrongAnswer2": "Gerçek kullanıcılar tarafsız geri bildirim sağlar",
+        "WrongAnswer3": "Gerçek kullanıcılar çözümü çeşitli ortamlarda test eder",
+        "Info": "Gerçek kullanıcılarla doğrulamak önemlidir çünkü onlar tarafsız geri bildirim sağlar, hedef pazarı temsil eder ve çözümü çeşitli gerçek dünya ortamlarında test ederler."
     },
     {
-        "Question": "What is a key indicator that a solution is successfully validated?",
-        "CorrectAnswer": "Strong user engagement",
-        "WrongAnswer1": "Positive internal reviews",
-        "WrongAnswer2": "High interest from external investors",
-        "WrongAnswer3": "Media recognition",
-        "Info": "Strong user engagement is a key indicator of successful validation, as it shows that users find the solution useful and are actively using it."
+        "Question": "Bir çözümün başarıyla doğrulandığını gösteren bir kilit gösterge nedir?",
+        "CorrectAnswer": "Güçlü kullanıcı etkileşimi",
+        "WrongAnswer1": "Olumlu iç değerlendirmeler",
+        "WrongAnswer2": "Dış yatırımcılardan yüksek ilgi",
+        "WrongAnswer3": "Medya tanınırlığı",
+        "Info": "Güçlü kullanıcı etkileşimi, başarılı doğrulamanın kilit göstergesidir, çünkü kullanıcıların çözümü yararlı bulduğunu ve aktif olarak kullandığını gösterir."
     },
     {
-        "Question": "How can startups use data analytics in the validation process?",
-        "CorrectAnswer": "All of the above",
-        "WrongAnswer1": "To identify usage patterns",
-        "WrongAnswer2": "To optimize user experience",
-        "WrongAnswer3": "To forecast sales trends",
-        "Info": "Data analytics can be used to identify usage patterns, optimize user experience, and forecast sales trends, providing a comprehensive understanding of how the solution performs."
+        "Question": "Startuplar doğrulama sürecinde veri analizini nasıl kullanabilirler?",
+        "CorrectAnswer": "Hepsi",
+        "WrongAnswer1": "Kullanım desenlerini belirlemek",
+        "WrongAnswer2": "Kullanıcı deneyimini optimize etmek",
+        "WrongAnswer3": "Satış trendlerini tahmin etmek",
+        "Info": "Veri analitiği, kullanım desenlerini belirlemek, kullanıcı deneyimini optimize etmek ve satış trendlerini tahmin etmek için kullanılabilir, çözümün performansını kapsamlı bir şekilde anlamayı sağlar."
     },
     {
-        "Question": "What should be the focus when iterating on the MVP based on feedback?",
-        "CorrectAnswer": "Enhancing the core functionality",
-        "WrongAnswer1": "Adding more features quickly",
-        "WrongAnswer2": "Simplifying the user interface",
-        "WrongAnswer3": "Reducing costs",
-        "Info": "The focus should be on enhancing the core functionality based on user feedback, ensuring that the MVP effectively solves the core problem and meets user needs."
+        "Question": "Geri bildirimlere dayanarak MVP'yi iterasyona tabi tutarken odaklanılması gereken nedir?",
+        "CorrectAnswer": "Ana işlevselliği geliştirmek",
+        "WrongAnswer1": "Hızla daha fazla özellik eklemek",
+        "WrongAnswer2": "Kullanıcı arayüzünü basitleştirmek",
+        "WrongAnswer3": "Maliyetleri azaltmak",
+        "Info": "Odak, kullanıcı geri bildirimlerine dayanarak ana işlevselliği geliştirmeye yönelik olmalıdır, bu da MVP'nin temel problemi etkili bir şekilde çözdüğünü ve kullanıcı ihtiyaçlarını karşıladığını sağlar."
     },
     {
-        "Question": "How does validating a solution help in scaling a startup?",
-        "CorrectAnswer": "It ensures the product fits the market needs",
-        "WrongAnswer1": "It attracts more investors",
-        "WrongAnswer2": "It simplifies regulatory approvals",
-        "WrongAnswer3": "It broadens the customer base",
-        "Info": "Validating a solution ensures that the product fits the market needs, which is crucial for successful scaling as it confirms demand and viability."
+        "Question": "Bir çözümü doğrulamak bir startup'ın ölçeklenmesine nasıl yardımcı olur?",
+        "CorrectAnswer": "Ürünün pazar ihtiyaçlarına uygun olduğunu garanti eder",
+        "WrongAnswer1": "Daha fazla yatırımcı çeker",
+        "WrongAnswer2": "Düzenleyici onayları basitleştirir",
+        "WrongAnswer3": "Müşteri tabanını genişletir",
+        "Info": "Bir çözümü doğrulamak, ürünün pazar ihtiyaçlarına uygun olduğunu garanti eder, bu da başarılı ölçeklenme için kritik öneme sahiptir, çünkü talebi ve uygulanabilirliği doğrular."
     },
     {
-        "Question": "Why might a startup need to pivot during the validation phase?",
-        "CorrectAnswer": "If feedback consistently highlights the same issues",
-        "WrongAnswer1": "If there's a shift in market dynamics",
-        "WrongAnswer2": "If new competitors emerge",
-        "WrongAnswer3": "If technological advancements render the solution obsolete",
-        "Info": "A startup might need to pivot during the validation phase if feedback consistently highlights fundamental issues with the solution, necessitating significant changes."
+        "Question": "Doğrulama aşamasında bir startup neden yön değiştirmelidir?",
+        "CorrectAnswer": "Geri bildirimler sürekli olarak aynı sorunları vurguluyorsa",
+        "WrongAnswer1": "Pazar dinamiklerinde bir değişiklik varsa",
+        "WrongAnswer2": "Yeni rakipler ortaya çıkarsa",
+        "WrongAnswer3": "Teknolojik gelişmeler çözümü geçersiz kılarsa",
+        "Info": "Bir startup, geri bildirimler sürekli olarak çözümle ilgili temel sorunları vurguluyorsa doğrulama aşamasında yön değiştirmelidir, bu da önemli değişiklikler yapılmasını gerektirir."
     },
     {
-        "Question": "Which approach is least effective in validating a startup's solution?",
-        "CorrectAnswer": "Solely relying on quantitative data",
-        "WrongAnswer1": "Using only a small focus group",
-        "WrongAnswer2": "Limiting tests to controlled environments",
-        "WrongAnswer3": "Ignoring competitive analysis",
-        "Info": "Solely relying on quantitative data is least effective as it may overlook qualitative insights that are crucial for understanding user sentiments and deeper issues with the solution."
+        "Question": "Bir startup çözümünü doğrularken en az etkili yaklaşım hangisidir?",
+        "CorrectAnswer": "Sadece nicel verilere dayanmak",
+        "WrongAnswer1": "Sadece küçük bir odak grubunu kullanmak",
+        "WrongAnswer2": "Testleri kontrol edilen ortamlarda sınırlamak",
+        "WrongAnswer3": "Rekabet analizini göz ardı etmek",
+        "Info": "Sadece nicel verilere dayanmak en az etkili yaklaşımdır çünkü kullanıcı duyarlılıklarını ve çözümle ilgili daha derin sorunları anlamak için gerekli olan nitel içgörüleri göz ardı edebilir."
     }
 ],
 "Phase3" : 
