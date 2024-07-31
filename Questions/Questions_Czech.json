@@ -133,391 +133,392 @@
 "Phase2" : 
 [
     {
-        "Question": "What is the primary goal of validating a startup solution?",
-        "CorrectAnswer": "To ensure the solution solves the problem effectively",
-        "WrongAnswer1": "To maximize the initial investment",
-        "WrongAnswer2": "To finalize the product features",
-        "WrongAnswer3": "To measure the product's market demand",
-        "Info": "The primary goal of solution validation is to ensure the solution effectively resolves the identified problem, thereby confirming its feasibility and market fit."
+        "Question": "Jaký je hlavní cíl ověření řešení, které startup nabítí?",
+        "CorrectAnswer": "Zajistit, že řešení efektivně řeší problém",
+        "WrongAnswer1": "Maximalizovat počáteční investici",
+        "WrongAnswer2": "Jasně definovat vlastnosti produktu",
+        "WrongAnswer3": "Měřit tržní poptávku po produktu",
+        "Info": "Primárním cílem ověření řešení je zajistit, že řešení efektivně řeší identifikovaný problém, tím potvrzují jeho proveditelnost a vhodnost pro trh."
     },
     {
-        "Question": "Which method is commonly used to validate a solution in the early stages?",
-        "CorrectAnswer": "Conducting a pilot test",
-        "WrongAnswer1": "Launching a full-featured product",
-        "WrongAnswer2": "Consulting industry experts",
+        "Question": "Která metoda se běžně používá k ověření řešení v raných fázích?",
+        "CorrectAnswer": "Provedení pilotního testu",
+        "WrongAnswer1": "Spuštění full-sized produktu",
+        "WrongAnswer2": "Konzultace s odborníky v odvětví",
         "WrongAnswer3": "Gathering feedback from internal stakeholders",
-        "Info": "Conducting a pilot test allows startups to test their solution in a real-world environment on a small scale, providing practical insights without the risks of a full launch."
+        "Info": "Získávání zpětné vazby od interních zúčastněných stran"
     },
     {
-        "Question": "Why is it important for startups to have a minimal viable product (MVP)?",
-        "CorrectAnswer": "To test the market with the core features",
-        "WrongAnswer1": "To reduce the development costs",
-        "WrongAnswer2": "To attract early-stage investors",
-        "WrongAnswer3": "To streamline the production process",
-        "Info": "An MVP is crucial because it allows startups to test the market with the core features of their product, gathering valuable user feedback for further development and iterations."
+        "Question": "Proč je pro startupy důležité mít minimal viable product (MVP)?",
+        "CorrectAnswer": "Otestovat trh se základními funkcemi produktu",
+        "WrongAnswer1": "Snížit náklady na vývoj",
+        "WrongAnswer2": "Přilákat investory v raných fázích",
+        "WrongAnswer3": "Zjednodušit výrobní proces",
+        "Info": "MVP je klíčový, protože umožňuje startupům otestovat trh sezákladními funkcemi svého produktu a shromažďovat cennou zpětnou vazbu uživatelů pro další vývoj."
     },
     {
-        "Question": "What should a startup focus on when collecting feedback on their MVP?",
-        "CorrectAnswer": "The quality and relevance of the feedback",
-        "WrongAnswer1": "The quantity of the feedback",
-        "WrongAnswer2": "The speed of acquiring feedback",
-        "WrongAnswer3": "The diversity of feedback sources",
-        "Info": "The focus should be on the quality and relevance of the feedback, as it provides deeper insights into how well the MVP meets user needs and expectations."
+        "Question": "Na co by se měl startup zaměřit při sběru zpětné vazby na svůj MVP?",
+        "CorrectAnswer": "Na kvalitu a relevanci zpětné vazby",
+        "WrongAnswer1": "Na kvantitu zpětné vazby",
+        "WrongAnswer2": "Na rychlost získání zpětné vazby",
+        "WrongAnswer3": "Na různorodost zdrojů zpětné vazby",
+        "Info": "Zaměření by mělo být na kvalitu a relevanci zpětné vazby, protože poskytuje hlubší poznatky o tom, jak dobře se MVP zahrnuje do potřeb a očekávání uživatelů."
     },
     {
-        "Question": "Which is an effective way to gather user feedback during solution validation?",
-        "CorrectAnswer": "All of the above",
-        "WrongAnswer1": "Online surveys",
-        "WrongAnswer2": "User interviews",
-        "WrongAnswer3": "A/B testing",
-        "Info": "Combining online surveys, user interviews, and A/B testing provides comprehensive feedback from different angles, enhancing the understanding of user interaction and satisfaction."
+        "Question": "Co je účinným způsobem, jak shromáždit zpětnou vazbu uživatelů během ověřování řešení?",
+        "CorrectAnswer": "Všechny výše uvedené",
+        "WrongAnswer1": "Online průzkumy",
+        "WrongAnswer2": "Rozhovory s uživateli",
+        "WrongAnswer3": "A/B testování",
+        "Info": "Kombinace online průzkumů, rozhovorů s uživateli a A/B testování poskytuje komplexní zpětnou vazbu z různých úhlů, zlepšuje pochopení interakce uživatelů a jejich spokojenosti."
     },
     {
-        "Question": "What role do early adopters play in the validation process?",
-        "CorrectAnswer": "They act as primary feedback sources",
+        "Question": "Jakou roli hrají early adopters v procesu validace?",
+        "CorrectAnswer": "Působí jako primární zdroje zpětné vazby",
         "WrongAnswer1": "They provide initial funding",
-        "WrongAnswer2": "They help refine the marketing strategy",
-        "WrongAnswer3": "They determine the final product design",
-        "Info": "Early adopters are crucial in the validation process as they provide actionable feedback that helps refine the product based on their experiences and expectations."
+        "WrongAnswer2": "Poskytují počáteční financování",
+        "WrongAnswer3": "Určují konečný design produktu",
+        "Info": "Early adopters jsou klíčoví v procesu validace, protože poskytují akční zpětnou vazbu, která pomáhá zdokonalit produkt na základě jejich zkušeností a očekávání."
     },
     {
-        "Question": "How should a startup react if initial validation feedback is negative?",
-        "CorrectAnswer": "Analyze the feedback for patterns",
-        "WrongAnswer1": "Pivot immediately to a new solution",
-        "WrongAnswer2": "Ignore the feedback and continue as planned",
-        "WrongAnswer3": "Reduce the product's price",
-        "Info": "Negative feedback should be analyzed for patterns and common issues, which can guide necessary adjustments and improvements to the product."
+        "Question": "Jak by měl startup reagovat, pokud jsou počáteční validační zpětné vazby negativní?",
+        "CorrectAnswer": "Analyzovat zpětnou vazbu",
+        "WrongAnswer1": "Okamžitě navrhnout nové řešení",
+        "WrongAnswer2": "Ignorovat zpětnou vazbu a pokračovat podle plánu",
+        "WrongAnswer3": "Snížit cenu produktu",
+        "Info": "Negativní zpětnou vazbu je třeba analyzovat na vzory a společné problémy, které mohou vést k nezbytným úpravám a vylepšením produktu."
     },
     {
-        "Question": "What is the benefit of conducting split tests during the solution validation phase?",
-        "CorrectAnswer": "Identifying the most effective product features",
-        "WrongAnswer1": "Minimizing financial risk",
-        "WrongAnswer2": "Reducing time to market",
-        "WrongAnswer3": "All of the above",
-        "Info": "Conducting split tests helps identify which product features are most effective and preferred by users, enabling targeted improvements."
+        "Question": "Jaký je prospěch z provádění rozdělených testů během fáze ověřování řešení?",
+        "CorrectAnswer": "Identifikace nejefektivnějších funkcí produktu",
+        "WrongAnswer1": "Minimalizace finančního rizika",
+        "WrongAnswer2": "Zkrácení času do uvedení na trh",
+        "WrongAnswer3": "Všechny výše uvedené",
+        "Info": "Provádění rozdělených testů pomáhá identifikovat, které funkce produktu jsou nejefektivnější a preferované uživateli, umožňuje cílená vylepšení."
     },
     {
-        "Question": "Which metric is crucial when validating a new solution?",
-        "CorrectAnswer": "Customer satisfaction score",
-        "WrongAnswer1": "Number of active users",
-        "WrongAnswer2": "Cost per acquisition",
-        "WrongAnswer3": "Lifetime value of a customer",
-        "Info": "Customer satisfaction score is crucial as it directly reflects the users' happiness and satisfaction with the solution, indicating its success and acceptance."
+        "Question": "Která metrika je klíčová při ověřování nového řešení?",
+        "CorrectAnswer": "Skóre spokojenosti zákazníka",
+        "WrongAnswer1": "Počet aktivních uživatelů",
+        "WrongAnswer2": "Náklady na akvizici",
+        "WrongAnswer3": "Customer Lifetime Value",
+        "Info": "Skóre spokojenosti zákazníka je klíčové, protože přímo odráží štěstí a spokojenost uživatelů se řešením, což naznačuje jeho úspěch a přijetí."
     },
     {
-        "Question": "Why is it important to validate a solution with real users and not just with internal teams?",
-        "CorrectAnswer": "All of the above",
-        "WrongAnswer1": "Internal teams may not represent the target market",
-        "WrongAnswer2": "Real users provide unbiased feedback",
-        "WrongAnswer3": "Real users test the solution in diverse environments",
-        "Info": "Validating with real users is essential as they provide unbiased feedback, represent the target market, and test the solution in a variety of real-world environments."
+        "Question": "Proč je důležité ověřovat řešení s reálnými uživateli?",
+        "CorrectAnswer": "Všechny výše uvedené",
+        "WrongAnswer1": "Interní týmy nemusí reprezentovat cílový trh",
+        "WrongAnswer2": "Reální uživatelé poskytují nezaujatou zpětnou vazbu",
+        "WrongAnswer3": "Reální uživatelé testují řešení v různorodých prostředích",
+        "Info": "Ověřování s reálnými uživateli je zásadní, protože poskytují nezaujatou zpětnou vazbu, reprezentují cílový trh a testují řešení v různých reálných prostředích."
     },
     {
-        "Question": "What is a key indicator that a solution is successfully validated?",
-        "CorrectAnswer": "Strong user engagement",
-        "WrongAnswer1": "Positive internal reviews",
-        "WrongAnswer2": "High interest from external investors",
-        "WrongAnswer3": "Media recognition",
-        "Info": "Strong user engagement is a key indicator of successful validation, as it shows that users find the solution useful and are actively using it."
+        "Question": "Co je klíčový ukazatel úspěšně ověřeného řešení?",
+        "CorrectAnswer": "Silné zapojení uživatelů",
+        "WrongAnswer1": "Pozitivní recenze",
+        "WrongAnswer2": "Vysoký zájem externích investorů",
+        "WrongAnswer3": "Rorpoznání produktu v médiích",
+        "Info": "Silné zapojení uživatelů je klíčovým ukazatelem úspěšné validace, protože ukazuje, že uživatelé považují řešení za užitečné a aktivně ho používají."
     },
     {
-        "Question": "How can startups use data analytics in the validation process?",
-        "CorrectAnswer": "All of the above",
-        "WrongAnswer1": "To identify usage patterns",
-        "WrongAnswer2": "To optimize user experience",
-        "WrongAnswer3": "To forecast sales trends",
-        "Info": "Data analytics can be used to identify usage patterns, optimize user experience, and forecast sales trends, providing a comprehensive understanding of how the solution performs."
+        "Question": "Jak mohou startupy využít analýzu dat ve validačním procesu?",
+        "CorrectAnswer": "Všechny výše uvedené",
+        "WrongAnswer1": "K identifikaci vzorců používání",
+        "WrongAnswer2": "K optimalizaci uživatelského zážitku",
+        "WrongAnswer3": "K předpovídání trendů prodeje",
+        "Info": "Datová analýza lze využít k identifikaci vzorců používání, optimalizaci uživatelského zážitku a předpovídání trendů prodeje, poskytující komplexní porozumění tomu, jak řešení funguje."
     },
     {
-        "Question": "What should be the focus when iterating on the MVP based on feedback?",
-        "CorrectAnswer": "Enhancing the core functionality",
-        "WrongAnswer1": "Adding more features quickly",
-        "WrongAnswer2": "Simplifying the user interface",
-        "WrongAnswer3": "Reducing costs",
-        "Info": "The focus should be on enhancing the core functionality based on user feedback, ensuring that the MVP effectively solves the core problem and meets user needs."
+        "Question": "Na co by měl být zaměřen MVP na základě zpětné vazby?",
+        "CorrectAnswer": "Zlepšení základní funkcionality",
+        "WrongAnswer1": "Rychlé přidávání dalších funkcí",
+        "WrongAnswer2": "Zjednodušení uživatelského rozhraní",
+        "WrongAnswer3": "Snížení nákladů",
+        "Info": "Mělo by se zaměřit na zlepšení základní funkcionality na základě zpětné vazby uživatelů. Tím se zajistí, aby MVP efektivně řešilo hlavní problém a splňovalo potřeby uživatelů."
+
     },
     {
-        "Question": "How does validating a solution help in scaling a startup?",
-        "CorrectAnswer": "It ensures the product fits the market needs",
-        "WrongAnswer1": "It attracts more investors",
-        "WrongAnswer2": "It simplifies regulatory approvals",
-        "WrongAnswer3": "It broadens the customer base",
-        "Info": "Validating a solution ensures that the product fits the market needs, which is crucial for successful scaling as it confirms demand and viability."
+        "Question": "Jak ověřování řešení pomáhá při škálování startupu?",
+        "CorrectAnswer": "Zajišťuje, že produkt vyhovuje potřebám trhu",
+        "WrongAnswer1": "Přitahuje více investorů",
+        "WrongAnswer2": "Zjednodušuje schvalovací procesy",
+        "WrongAnswer3": "Rozšiřuje zákaznickou základnu",
+        "Info": "Ověření řešení zajišťuje, že produkt vyhovuje potřebám trhu, což je klíčové pro úspěšné škálování, protože potvrzuje poptávku a životaschopnost."
     },
     {
-        "Question": "Why might a startup need to pivot during the validation phase?",
-        "CorrectAnswer": "If feedback consistently highlights the same issues",
-        "WrongAnswer1": "If there's a shift in market dynamics",
-        "WrongAnswer2": "If new competitors emerge",
-        "WrongAnswer3": "If technological advancements render the solution obsolete",
-        "Info": "A startup might need to pivot during the validation phase if feedback consistently highlights fundamental issues with the solution, necessitating significant changes."
+        "Question": "Proč by mohl startup potřebovat pivotovat během validační fáze?",
+        "CorrectAnswer": "Jestliže zpětná vazba pravidelně zdůrazňuje stejné problémy",
+        "WrongAnswer1": "Jestliže dochází ke změně v dynamice trhu",
+        "WrongAnswer2": "Jestliže se objevují noví konkurenti",
+        "WrongAnswer3": "Jestliže technologické pokroky zastarají řešení",
+        "Info": "Startup by mohl potřebovat pivotovat během validační fáze, pokud zpětná vazba pravidelně zdůrazňuje základní problémy s řešením, které vyžadují významné změny."
     },
     {
-        "Question": "Which approach is least effective in validating a startup's solution?",
-        "CorrectAnswer": "Solely relying on quantitative data",
-        "WrongAnswer1": "Using only a small focus group",
-        "WrongAnswer2": "Limiting tests to controlled environments",
-        "WrongAnswer3": "Ignoring competitive analysis",
-        "Info": "Solely relying on quantitative data is least effective as it may overlook qualitative insights that are crucial for understanding user sentiments and deeper issues with the solution."
+        "Question": "Který přístup je nejméně účinný při validaci řešení startupu?",
+        "CorrectAnswer": "Spoléhání se pouze na kvantitativní data",
+        "WrongAnswer1": "Použití jen malého skupinového dotazování",
+        "WrongAnswer2": "Omezování testů na kontrolovaná prostředí",
+        "WrongAnswer3": "Ignorování analýzy konkurence",
+        "Info": "Pouze spoléhání se na kvantitativní data je nejméně účinné, protože může přehlížet kvalitativní poznatky, které jsou klíčové pro porozumění názorům uživatelů a hlubším problémům s řešením."
     }
 ],
 "Phase3" : 
 [
     {
-        "Question": "What is the primary focus when developing a startup's business model?",
-        "CorrectAnswer": "Creating a scalable and repeatable model",
-        "WrongAnswer1": "Maximizing short-term profits",
-        "WrongAnswer2": "Designing fancy office spaces",
-        "WrongAnswer3": "Focusing exclusively on technology development",
-        "Info": "The primary focus is creating a scalable model that can be repeatedly executed, which is essential for long-term growth and efficiency."
+        "Question": "Jaké je hlavní zaměření při vytváření obchodního modelu startupu?",
+        "CorrectAnswer": "Vytvoření škálovatelného a opakovatelného modelu",
+        "WrongAnswer1": "Maximalizace krátkodobých zisků",
+        "WrongAnswer2": "Návrh výstředních kancelářských prostor",
+        "WrongAnswer3": "Zaměření výhradně na vývoj technologií",
+        "Info": "Hlavním zaměřením je vytvoření škálovatelného modelu, který lze opakovaně provádět, což je klíčové pro dlouhodobý růst a efektivitu."
     },
     {
-        "Question": "Which component is essential to include in a business model?",
-        "CorrectAnswer": "Revenue streams",
-        "WrongAnswer1": "Number of employees",
-        "WrongAnswer2": "Office locations",
-        "WrongAnswer3": "Legal structure",
-        "Info": "Identifying revenue streams is crucial as it defines how the startup will generate income and sustain operations."
+        "Question": "Která složka je nezbytná k zahrnutí do obchodního modelu?",
+        "CorrectAnswer": "Zdroje příjmů",
+        "WrongAnswer1": "Počet zaměstnanců",
+        "WrongAnswer2": "Umístění kanceláří",
+        "WrongAnswer3": "Právní struktura",
+        "Info": "Identifikace zdrojů příjmů je zásadní, protože definuje, jak startup vygeneruje příjmy a udrží provoz."
     },
     {
-        "Question": "How should a startup determine its key resources?",
-        "CorrectAnswer": "Based on the core needs to deliver its value proposition",
-        "WrongAnswer1": "Based on what competitors are using",
-        "WrongAnswer2": "Based on the cheapest resources available",
-        "WrongAnswer3": "Random selection",
-        "Info": "Key resources should be determined by the requirements to effectively deliver the startup's value proposition to its customer base."
+        "Question": "Jak by měl startup určit své klíčové zdroje?",
+        "CorrectAnswer": "Na základě hlavních potřeb pro předání svých hodnot",
+        "WrongAnswer1": "Na základě toho, co používají konkurenti",
+        "WrongAnswer2": "Na základě nejlevnějších dostupných zdrojů",
+        "WrongAnswer3": "Náhodný výběr",
+        "Info": "Klíčové zdroje by měly být určeny na základě požadavků pro efektivní předání hodnot startupu jeho zákaznické základně."
     },
     {
-        "Question": "What role does customer segmentation play in developing a business model?",
-        "CorrectAnswer": "It helps tailor marketing strategies to specific groups",
-        "WrongAnswer1": "It is only useful for large companies",
-        "WrongAnswer2": "It complicates the marketing process",
-        "WrongAnswer3": "It should be ignored to simplify operations",
-        "Info": "Customer segmentation is critical for tailoring marketing efforts to meet the distinct needs and preferences of different customer groups, enhancing effectiveness."
+        "Question": "Jakou roli hraje segmentace zákazníků při vytváření obchodního modelu?",
+        "CorrectAnswer": "Pomáhá přizpůsobit marketingové strategie konkrétním skupinám",
+        "WrongAnswer1": "Je užitečná pouze pro velké společnosti",
+        "WrongAnswer2": "Zkomplikuje proces marketingu",
+        "WrongAnswer3": "Měla by být ignorována, aby se zjednodušily operace",
+        "Info": "Segmentace zákazníků je klíčová pro přizpůsobení marketingových snah tak, aby vyhovovaly odlišným potřebám a preferencím různých skupin zákazníků, zvyšuje tak efektivitu."
     },
     {
-        "Question": "How does a value proposition impact a startup's business model?",
-        "CorrectAnswer": "It defines what makes the startup's product unique and valuable to customers",
-        "WrongAnswer1": "It determines the geographic location of the company",
-        "WrongAnswer2": "It is irrelevant as long as the product is of high quality",
-        "WrongAnswer3": "It primarily affects the hiring process",
-        "Info": "The value proposition is central to a business model as it highlights the unique benefits and value the startup provides to its customers."
+        "Question": "Jaký vliv má hodnotová propozice na obchodní model startupu?",
+        "CorrectAnswer": "Definuje, co dělá produkt startupu jedinečným a hodnotným pro zákazníky",
+        "WrongAnswer1": "Určuje geografické umístění společnosti",
+        "WrongAnswer2": "Je irelevantní, pokud je produkt vysoké kvality",
+        "WrongAnswer3": "Ovlivňuje především proces náboru",
+        "Info": "Hodnotová propozice je středobodem obchodního modelu, protože zdůrazňuje jedinečné výhody a hodnotu, kterou startup poskytuje svým zákazníkům."
     },
     {
-        "Question": "What is crucial when determining a startup's revenue model?",
-        "CorrectAnswer": "Understanding what customers are willing to pay for",
-        "WrongAnswer1": "Choosing the one with the highest initial cost",
-        "WrongAnswer2": "Copying the most popular models in the industry",
-        "WrongAnswer3": "Ignoring market trends and focusing on intuition",
-        "Info": "A successful revenue model is based on a deep understanding of customer willingness to pay, ensuring the pricing strategy aligns with market expectations."
+        "Question": "Co je zásadní při určování příjmového modelu startupu?",
+        "CorrectAnswer": "Pochopení, za co jsou zákazníci ochotni platit",
+        "WrongAnswer1": "Volba toho s nejvyšší počáteční cenou",
+        "WrongAnswer2": "Kopírování nejpopulárnějších modelů v odvětví",
+        "WrongAnswer3": "Ignorování tržních trendů a zaměření se na intuici",
+        "Info": "Úspěšný příjmový model je založen na hlubokém porozumění tomu, za co jsou zákazníci ochotni platit, zajistí, že cenová strategie bude odpovídat očekáváním trhu."
     },
     {
-        "Question": "Why is partnership an important element in a business model?",
-        "CorrectAnswer": "Partners can provide necessary skills or resources",
-        "WrongAnswer1": "Partners are required by law",
-        "WrongAnswer2": "Partners simplify decision-making",
-        "WrongAnswer3": "Partners eliminate competition",
-        "Info": "Partnerships are valuable for providing skills and resources that the startup may lack, enhancing capabilities and competitive advantage."
+        "Question": "Proč je partnerství důležitým prvkem obchodního modelu?",
+        "CorrectAnswer": "Partneři mohou poskytnout nezbytné dovednosti nebo zdroje",
+        "WrongAnswer1": "Partneři jsou vyžadováni zákonem",
+        "WrongAnswer2": "Partneři zjednodušují rozhodování",
+        "WrongAnswer3": "Partneři eliminují konkurenci",
+        "Info": "Partnerství jsou cenná pro poskytování dovedností a zdrojů, které startup může postrádat, zlepšují schopnosti a konkurenční výhodu."
     },
     {
-        "Question": "Which strategy is least effective in developing a sustainable business model?",
-        "CorrectAnswer": "Relying heavily on a single customer",
-        "WrongAnswer1": "Focusing on continuous innovation",
-        "WrongAnswer2": "Diversifying income sources",
-        "WrongAnswer3": "Aligning with market needs and trends",
-        "Info": "Relying on a single customer is risky and unsustainable as it makes the business vulnerable to changes in that customer's situation."
+        "Question": "Která strategie je nejméně účinná při vytváření udržitelného obchodního modelu?",
+        "CorrectAnswer": "Silná závislost na jediném zákazníkovi",
+        "WrongAnswer1": "Zaměření na kontinuální inovace",
+        "WrongAnswer2": "Diverzifikace zdrojů příjmů",
+        "WrongAnswer3": "Sladění s potřebami a trendy trhu",
+        "Info": "Spoléhání se na jediného zákazníka je riskantní a neudržitelné, protože činí podnik zranitelným vůči změnám v situaci tohoto zákazníka."
     },
     {
-        "Question": "What should be the approach to cost structure in the business model?",
-        "CorrectAnswer": "Balance between cost efficiency and quality delivery",
-        "WrongAnswer1": "Minimize costs at all times, regardless of impact",
-        "WrongAnswer2": "Ignore costs in the early stages",
-        "WrongAnswer3": "Focus solely on revenue generation",
-        "Info": "An effective cost structure balances efficiency with quality, ensuring the business can deliver value without compromising on service or product quality."
+        "Question": "Jaký by měl být přístup k nákladové struktuře v obchodním modelu?",
+        "CorrectAnswer": "Vyváženost mezi účinností nákladů a kvalitní dodávkou",
+        "WrongAnswer1": "Minimalizace nákladů za všech okolností, bez ohledu na dopad",
+        "WrongAnswer2": "Ignorování nákladů v raných stádiích",
+        "WrongAnswer3": "Zaměření se výhradně na generování příjmů",
+        "Info": "Účinná struktura nákladů vyvažuje efektivitu s kvalitou a zajistí, že podnik bude schopen poskytovat hodnotu bez ohrožení kvality služby nebo produktu."
     },
     {
-        "Question": "How important is scalability in designing a startup's business model?",
-        "CorrectAnswer": "It is crucial for future expansion and sustainability",
-        "WrongAnswer1": "It is the only factor that matters",
-        "WrongAnswer2": "It is irrelevant for startups",
-        "WrongAnswer3": "It should be considered but not at the expense of current operations",
-        "Info": "Scalability is essential in a business model as it ensures that the startup can grow without being hampered by its initial setup."
+        "Question": "Jak důležitá je škálovatelnost při návrhu obchodního modelu startupu?",
+        "CorrectAnswer": "Je to klíčové pro budoucí rozšíření a udržitelnost",
+        "WrongAnswer1": "Je to jediný faktor, který má význam",
+        "WrongAnswer2": "Je to nepodstatné pro startupy",
+        "WrongAnswer3": "Mělo by se to zvážit, ale ne na úkor současných operací",
+        "Info": "Škálovatelnost je zásadní v obchodním modelu, protože zajišťuje, že startup může růst bez omezení svým původním nastavením."
     },
     {
-        "Question": "Why integrate customer feedback into the business model development?",
-        "CorrectAnswer": "It helps adapt and refine the model to better meet market needs",
-        "WrongAnswer1": "It ensures the model remains rigid and unchanged",
-        "WrongAnswer2": "Customer feedback is generally misleading",
-        "WrongAnswer3": "It is only useful for technology-based companies",
-        "Info": "Integrating customer feedback allows startups to refine and adapt their business model to better align with actual market needs and expectations."
+        "Question": "Proč integrovat zpětnou vazbu zákazníků do vývoje obchodního modelu?",
+        "CorrectAnswer": "Pomáhá přizpůsobit a zdokonalit model tak, aby lépe vyhovoval potřebám trhu",
+        "WrongAnswer1": "Zajišťuje, že model zůstane nepružný a nezměněný",
+        "WrongAnswer2": "Zpětná vazba zákazníků je obvykle zavádějící",
+        "WrongAnswer3": "Je užitečné pouze pro technologicky orientované společnosti",
+        "Info": "Integrace zpětné vazby zákazníků umožňuje startupům zdokonalit a přizpůsobit svůj obchodní model tak, aby lépe odpovídal skutečným potřebám a očekáváním trhu."
     },
     {
-        "Question": "Which element is not typically a part of a startup's business model?",
-        "CorrectAnswer": "Employee benefits",
-        "WrongAnswer1": "Cost structure",
-        "WrongAnswer2": "Revenue streams",
-        "WrongAnswer3": "Customer relationships",
-        "Info": "Employee benefits are not typically a core element of the business model itself but are more related to human resources management."
+        "Question": "Který prvek obvykle není součástí obchodního modelu startupu?",
+        "CorrectAnswer": "Benefity zaměstnanců",
+        "WrongAnswer1": "Nákladová struktura",
+        "WrongAnswer2": "Zdroje příjmů",
+        "WrongAnswer3": "Vztahy se zákazníky",
+        "Info": "Benefity zaměstnanců obvykle nejsou hlavním prvkem samotného obchodního modelu, ale spíše souvisejí s řízením lidských zdrojů."
     },
     {
-        "Question": "How does competitive analysis benefit the business model development?",
-        "CorrectAnswer": "It identifies potential areas for differentiation",
-        "WrongAnswer1": "It prevents any form of innovation",
-        "WrongAnswer2": "It is only useful after the business model is established",
-        "WrongAnswer3": "It guarantees market dominance",
-        "Info": "Competitive analysis helps identify opportunities for differentiation in the market, allowing the startup to position itself uniquely against competitors."
+        "Question": "Jakým způsobem prospívá konkurenční analýza vývoji obchodního modelu?",
+        "CorrectAnswer": "Identifikuje potenciální oblasti diferenciace",
+        "WrongAnswer1": "Zabraňuje jakémukoli druhu inovace",
+        "WrongAnswer2": "Je užitečná pouze poté, co je stanoven obchodní model",
+        "WrongAnswer3": "Zaručuje dominanci na trhu",
+        "Info": "Konkurenční analýza pomáhá identifikovat příležitosti k diferenciaci na trhu, což umožňuje startupu unikátně se pozicionovat proti konkurenci."
     },
     {
-        "Question": "What is the risk of not frequently revisiting the business model?",
-        "CorrectAnswer": "The model may become outdated as market conditions change",
-        "WrongAnswer1": "The startup may over-innovate",
-        "WrongAnswer2": "The model will become too complex to understand",
-        "WrongAnswer3": "There is no risk; business models should remain fixed",
-        "Info": "Not updating the business model risks it becoming irrelevant or ineffective as market dynamics and consumer preferences evolve."
+        "Question": "Jaké je riziko nepříliš častého přezkoumávání obchodního modelu?",
+        "CorrectAnswer": "Model se může zastaral, jak se mění tržní podmínky",
+        "WrongAnswer1": "Startup se může příliš inovovat",
+        "WrongAnswer2": "Model se stane příliš složitý k pochopení",
+        "WrongAnswer3": "Neexistuje žádné riziko; obchodní modely by měly zůstat neměnné",
+        "Info": "Nepřezkoumávání obchodního modelu hrozí, že se stane neaktuálním nebo neefektivním s vývojem tržní dynamiky a preferencí spotřebitelů."
     },
     {
-        "Question": "How can technology impact a startup's business model?",
-        "CorrectAnswer": "It can enable new ways of delivering value to customers",
-        "WrongAnswer1": "It has no real impact",
-        "WrongAnswer2": "It complicates the model unnecessarily",
-        "WrongAnswer3": "It should be avoided in traditional businesses",
-        "Info": "Technology can significantly impact a business model by enabling new methods of value delivery, often more efficiently and at a lower cost."
+        "Question": "Jakým způsobem může technologie ovlivnit obchodní model startupu?",
+        "CorrectAnswer": "Může umožnit nové způsoby poskytování hodnoty zákazníkům",
+        "WrongAnswer1": "Nemá žádný skutečný vliv",
+        "WrongAnswer2": "Zbytečně komplikuje model",
+        "WrongAnswer3": "Měla by se vyhnout v tradičních podnicích",
+        "Info": "Technologie může významně ovlivnit obchodní model tím, že umožní nové metody doručování hodnoty, často efektivněji a za nižší náklady."
     },
     {
-        "Question": "Which outcome indicates that a business model is not effective?",
-        "CorrectAnswer": "Revenue does not cover the operational costs",
-        "WrongAnswer1": "The company experiences steady growth",
-        "WrongAnswer2": "Employees are satisfied",
-        "WrongAnswer3": "The company gains some media attention",
-        "Info": "If a business model fails to generate enough revenue to cover operational costs, it indicates inefficiency and ineffectiveness."
+        "Question": "Který výsledek naznačuje, že obchodní model není efektivní?",
+        "CorrectAnswer": "Příjmy nepokrývají provozní náklady",
+        "WrongAnswer1": "Společnost zažívá stabilní růst",
+        "WrongAnswer2": "Zaměstnanci jsou spokojení",
+        "WrongAnswer3": "Společnost získává určitou mediální pozornost",
+        "Info": "Pokud obchodní model nedokáže generovat dostatečné příjmy k pokrytí provozních nákladů, naznačuje to neefektivitu a neúčinnost."
     },
     {
-        "Question": "What is the significance of a go-to-market strategy within the business model?",
-        "CorrectAnswer": "It outlines the roadmap for launching the product to the market",
-        "WrongAnswer1": "It is only necessary for tech startups",
-        "WrongAnswer2": "It should focus solely on long-term goals",
-        "WrongAnswer3": "It is unrelated to customer acquisition",
-        "Info": "A go-to-market strategy is crucial as it provides a detailed plan on how the product will be introduced to the market, targeting initial customer acquisition and growth."
+        "Question": "Jaký je význam strategie uvedení na trh v rámci obchodního modelu?",
+        "CorrectAnswer": "Vytyčuje cestu pro uvedení produktu na trh",
+        "WrongAnswer1": "Je nezbytná pouze pro technologické startupy",
+        "WrongAnswer2": "Měla by se zaměřovat výhradně na dlouhodobé cíle",
+        "WrongAnswer3": "Není spojena s akvizicí zákazníků",
+        "Info": "Strategie uvedení na trh je zásadní, protože poskytuje podrobný plán, jak bude produkt uveden na trh, cílí na počáteční akvizici zákazníků a růst."
     },
     {
-        "Question": "Which factor should be least prioritized when developing a business model?",
-        "CorrectAnswer": "Short-term profitability at the expense of growth",
-        "WrongAnswer1": "Long-term sustainability",
-        "WrongAnswer2": "Scalability of the model",
-        "WrongAnswer3": "Alignment with customer needs",
-        "Info": "Focusing too much on short-term profitability can hinder long-term growth and sustainability, making it a lesser priority during strategic planning."
+        "Question": "Který faktor by měl být nejméně prioritizován při vývoji obchodního modelu?",
+        "CorrectAnswer": "Krátkodobá ziskovost na úkor růstu",
+        "WrongAnswer1": "Dlouhodobá udržitelnost",
+        "WrongAnswer2": "Škálovatelnost modelu",
+        "WrongAnswer3": "Soulad s potřebami zákazníků",
+        "Info": "Přílišný důraz na krátkodobou ziskovost může zamezit dlouhodobému růstu a udržitelnosti, což činí tento faktor menší prioritou během strategického plánování."
     },
     {
-        "Question": "How does understanding the supply chain impact a startup's business model?",
-        "CorrectAnswer": "It helps in optimizing costs and improving product delivery",
-        "WrongAnswer1": "It has no impact unless the company is in manufacturing",
-        "WrongAnswer2": "It complicates operations unnecessarily",
-        "WrongAnswer3": "It is only important for global businesses",
-        "Info": "A well-understood supply chain allows for cost optimization and improved product delivery, which are critical for maintaining competitiveness and customer satisfaction."
+        "Question": "Jak ovlivňuje porozumění dodavatelskému řetězci obchodní model startupu?",
+        "CorrectAnswer": "Pomáhá optimalizovat náklady a zlepšit dodávku produktů",
+        "WrongAnswer1": "Nemá žádný vliv, pokud společnost není ve výrobě",
+        "WrongAnswer2": "Nepotřebně komplikuje operace",
+        "WrongAnswer3": "Je důležitý pouze pro globální podniky",
+        "Info": "Dobře pochopený dodavatelský řetězec umožňuje optimalizaci nákladů a zlepšení dodávky produktů, což je klíčové pro udržení konkurenceschopnosti a spokojenosti zákazníků."
     },
     {
-        "Question": "What role does a startup's mission and vision play in its business model?",
-        "CorrectAnswer": "They provide a framework for strategic decisions and growth",
-        "WrongAnswer1": "They dictate the operational processes",
-        "WrongAnswer2": "They are only used for marketing purposes",
-        "WrongAnswer3": "They are irrelevant to the business model",
-        "Info": "The mission and vision of a startup guide strategic decision-making and growth directions, aligning all efforts with the company's overarching goals."
+        "Question": "Jakou roli hraje cíl a vize startupu v jeho obchodním modelu?",
+        "CorrectAnswer": "Poskytují rámec pro strategická rozhodnutí a růst",
+        "WrongAnswer1": "Diktují operační procesy",
+        "WrongAnswer2": "Jsou používány pouze pro marketingové účely",
+        "WrongAnswer3": "Jsou irelevantní pro obchodní model",
+        "Info": "Mise a vize startupu usměrňují strategické rozhodování a směry růstu, zarovnávají všechny úsilí s celkovými cíli společnosti."
     },
     {
-        "Question": "How do legal and ethical considerations influence a business model?",
-        "CorrectAnswer": "They ensure the business operates within regulatory frameworks",
-        "WrongAnswer1": "They are only important in specific industries like healthcare",
-        "WrongAnswer2": "They are generally overlooked in fast-moving startups",
-        "WrongAnswer3": "They hinder the creative process",
-        "Info": "Legal and ethical considerations are integral to a business model as they ensure compliance with laws and ethical standards, which is crucial for sustainability and corporate responsibility."
+        "Question": "Jak ovlivňují právní a etická úvahy obchodní model?",
+        "CorrectAnswer": "Zajišťují, že podnik funguje v rámci regulačních rámců",
+        "WrongAnswer1": "Jsou důležité pouze v určitých odvětvích, jako je zdravotnictví",
+        "WrongAnswer2": "Obecně jsou přehlíženy v rychle se rozvíjejících startupech",
+        "WrongAnswer3": "Blokují tvůrčí proces",
+        "Info": "Právní a etické úvahy jsou nedílnou součástí obchodního modelu, protože zajišťují dodržování zákonů a etických standardů, což je klíčové pro udržitelnost a firemní odpovědnost."
     },
     {
-        "Question": "Which is a critical mistake when developing a business model?",
-        "CorrectAnswer": "Ignoring market feedback",
-        "WrongAnswer1": "Too much focus on competitor analysis",
-        "WrongAnswer2": "Frequent pivoting based on trends",
-        "WrongAnswer3": "Investing in marketing",
-        "Info": "Ignoring market feedback can lead to a disconnect between what the business offers and what the market actually needs, potentially resulting in product-market misalignment."
+        "Question": "Co je kritickou chybou při vývoji obchodního modelu?",
+        "CorrectAnswer": "Ignorování zpětné vazby",
+        "WrongAnswer1": "Přílišný důraz na analýzu konkurence",
+        "WrongAnswer2": "Časté pivotování založené na trendech",
+        "WrongAnswer3": "Investice do marketingu",
+        "Info": "Ignorování tržní zpětné vazby může vést k rozporu mezi tím, co podnik nabízí, a tím, co trh skutečně potřebuje, potenciálně vedoucí k nesouladu mezi produktem a trhem."
     },
     {
-        "Question": "What is the impact of technological advancements on a startup's business model?",
-        "CorrectAnswer": "They allow for more efficient operations and value delivery",
-        "WrongAnswer1": "They are irrelevant unless the startup is in the tech sector",
-        "WrongAnswer2": "They typically lead to higher costs",
-        "WrongAnswer3": "They reduce the need for a clear business model",
-        "Info": "Technological advancements can streamline operations and enhance value delivery, making a startup more efficient and competitive."
+        "Question": "Jaký je dopad technologických pokroků na obchodní model startupu?",
+        "CorrectAnswer": "Umožňují efektivnější provoz a doručování hodnoty",
+        "WrongAnswer1": "Jsou irelevantní, pokud startup není ve technologickém sektoru",
+        "WrongAnswer2": "Obvykle vedou ke zvýšeným nákladům",
+        "WrongAnswer3": "Sníží potřebu jasného obchodního modelu",
+        "Info": "Technologické pokroky mohou zefektivnit provoz a zlepšit doručování hodnoty, čímž startup stávají efektivnějšími a konkurenceschopnějšími."
     },
     {
-        "Question": "Why should startups focus on building strong customer relationships?",
-        "CorrectAnswer": "It provides a competitive advantage and fosters customer loyalty",
-        "WrongAnswer1": "It ensures compliance with international standards",
-        "WrongAnswer2": "It is only necessary for B2C companies",
-        "WrongAnswer3": "It simplifies legal processes",
-        "Info": "Strong customer relationships are vital for gaining a competitive edge and ensuring customer loyalty, which are crucial for sustainable business growth."
+        "Question": "Proč by se měly startupy zaměřit na budování silných vztahů se zákazníky?",
+        "CorrectAnswer": "Poskytuje to konkurenční výhodu a podporuje věrnost zákazníků",
+        "WrongAnswer1": "Dodržují se tak mezinárodní standardy",
+        "WrongAnswer2": "Je to nezbytné pouze pro B2C společnosti",
+        "WrongAnswer3": "Zjednodušuje to právní procesy",
+        "Info": "Silné vztahy se zákazníky jsou klíčové pro získání konkurenční výhody a zajištění věrnosti zákazníků, což je klíčové pro udržitelný růst podniku."
     },
     {
-        "Question": "What is the benefit of having a flexible business model?",
-        "CorrectAnswer": "It allows the startup to adapt quickly to market changes",
-        "WrongAnswer1": "It prevents the startup from having a clear direction",
-        "WrongAnswer2": "It complicates decision-making",
-        "WrongAnswer3": "It is not recommended as it may appear unprofessional",
-        "Info": "Flexibility in the business model enables a startup to swiftly adapt to changes in the market, maintaining relevance and responsiveness to new challenges and opportunities."
+        "Question": "Jaký je prospěch z pružného obchodního modelu?",
+        "CorrectAnswer": "Umožňuje startupu rychle reagovat na změny na trhu",
+        "WrongAnswer1": "Zabraňuje startupu v tom, aby měl jasný směr",
+        "WrongAnswer2": "Zkomplikuje rozhodování",
+        "WrongAnswer3": "Není doporučeno, protože by mohlo působit neprofesionálně",
+        "Info": "Pružnost v obchodním modelu umožňuje startupu rychle reagovat na změny na trhu, udržování relevance a reagování na nové výzvy a příležitosti."
     },
     {
-        "Question": "Which approach should be avoided when defining key activities in a business model?",
-        "CorrectAnswer": "Focusing solely on what competitors are doing",
-        "WrongAnswer1": "Tailoring activities to deliver the value proposition",
-        "WrongAnswer2": "Aligning activities with strategic goals",
-        "WrongAnswer3": "Reviewing activities periodically for relevance and efficiency",
-        "Info": "Copying competitors without considering unique aspects of one's own business can lead to missed opportunities for innovation and differentiation."
+        "Question": "Jaký přístup by měl být vyloučen při definování klíčových aktivit v obchodním modelu?",
+        "CorrectAnswer": "Zaměření se výhradně na to, co dělají konkurenti",
+        "WrongAnswer1": "Přizpůsobení aktivit k doručení hodnotového návrhu",
+        "WrongAnswer2": "Sladění aktivit se strategickými cíli",
+        "WrongAnswer3": "Pravidelné přezkoumávání aktivit pro jejich relevanci a efektivitu",
+        "Info": "Kopírování konkurentů bez zvážení unikátních aspektů vlastního podnikání může vést k zmeškaným příležitostem pro inovace a diferenciaci."
     },
     {
-        "Question": "How can a startup ensure its business model aligns with its core values?",
-        "CorrectAnswer": "By integrating values into every aspect of operations and decision-making",
-        "WrongAnswer1": "By revising its core values to match the most profitable model",
-        "WrongAnswer2": "By ignoring values in favor of market trends",
-        "WrongAnswer3": "By periodically changing values based on customer feedback",
-        "Info": "Integrating core values into all operations and decisions ensures that the business model reflects the startup's ethical and philosophical foundations, enhancing corporate identity and integrity."
+        "Question": "Jak může startup zajistit, že jeho obchodní model souzní s jeho hlavními hodnotami?",
+        "CorrectAnswer": "Integrací hodnot do každého aspektu provozu a rozhodování",
+        "WrongAnswer1": "Revizí svých hlavních hodnot tak, aby odpovídaly nejziskovějšímu modelu",
+        "WrongAnswer2": "Ignorováním hodnot ve prospěch tržních trendů",
+        "WrongAnswer3": "Pravidelným měněním hodnot na základě zpětné vazby zákazníků",
+        "Info": "Integrace hlavních hodnot do všech operací a rozhodnutí zajistí, že obchodní model odráží etické a filozofické základy startupu, zlepšuje korporátní identitu a integritu."
     },
     {
-        "Question": "What is a common challenge when scaling a business model?",
-        "CorrectAnswer": "Maintaining quality and consistency",
-        "WrongAnswer1": "Increasing the number of business locations",
-        "WrongAnswer2": "Reducing the variety of products offered",
-        "WrongAnswer3": "Focusing too much on cost-cutting",
-        "Info": "As a business model scales, ensuring the same level of quality and consistency across all operations can become challenging but is crucial for maintaining trust and customer satisfaction."
+        "Question": "Co je běžná výzva při škálování obchodního modelu?",
+        "CorrectAnswer": "Udržení kvality a konzistence",
+        "WrongAnswer1": "Zvýšení počtu obchodních míst",
+        "WrongAnswer2": "Snížení rozmanitosti nabízených produktů",
+        "WrongAnswer3": "Přílišný důraz na snižování nákladů",
+        "Info": "Při škálování obchodního modelu může zajistit stejnou úroveň kvality a konzistence ve všech operacích představovat výzvu, která je však klíčová pro udržení důvěry a spokojenosti zákazníků."
     },
     {
-        "Question": "Which element is least important when customizing a business model for different markets?",
-        "CorrectAnswer": "Universal best practices",
-        "WrongAnswer1": "Local cultural practices",
-        "WrongAnswer2": "Specific regulatory requirements",
-        "WrongAnswer3": "Local consumer behavior",
-        "Info": "While universal best practices provide a foundational framework, understanding and adapting to local specifics like culture, regulations, and consumer behavior is more crucial for effective market customization."
+        "Question": "Který prvek je nejméně důležitý při přizpůsobování obchodního modelu různým trhům?",
+        "CorrectAnswer":  "Univerzální osvědčené postupy",
+        "WrongAnswer1": "Místní kulturní praktiky",
+        "WrongAnswer2": "Konkrétní regulační požadavky",
+        "WrongAnswer3": "Místní spotřebitelské chování",
+        "Info": "I když univerzální osvědčené postupy poskytují základní rámec, porozumění a přizpůsobení místním specifikům, jako jsou kultura, regulace a spotřebitelské chování, je důležitější pro účinné přizpůsobení trhu."
     },
     {
-        "Question": "What is the role of a business model canvas in developing a business model?",
-        "CorrectAnswer": "It serves as a visual chart of the business's core elements and relationships",
-        "WrongAnswer1": "It provides a detailed financial plan",
-        "WrongAnswer2": "It is used primarily for investor presentations",
-        "WrongAnswer3": "It outlines the legal structure of the business",
-        "Info": "The business model canvas is a strategic management tool that visually displays key elements and relationships, aiding in a comprehensive understanding and development of the business model."
+        "Question": "Jaká je role schématu obchodního modelu při vytváření samotného modelu?",
+        "CorrectAnswer": "Slouží jako vizuální graf hlavních prvků podnikání a jejich vztahů",
+        "WrongAnswer1": "Poskytuje podrobný finanční plán",
+        "WrongAnswer2": "Je používáno především pro prezentace investorům",
+        "WrongAnswer3": "Vytváří kontury právní struktury podniku",
+        "Info": "Schéma business modelu je strategický nástroj managementu, který vizuálně zobrazuje klíčové prvky a vztahy, pomáhající při komplexním porozumění a rozvoji obchodního modelu."
     },
     {
-        "Question": "Why is it important for a startup to have a clear profit model in its business model?",
-        "CorrectAnswer": "To ensure it can sustain operations and reinvest in growth",
-        "WrongAnswer1": "To attract only high-net-worth investors",
-        "WrongAnswer2": "To minimize operational costs",
-        "WrongAnswer3": "To comply with international business standards",
-        "Info": "A clear profit model is essential for defining how the startup will sustain its operations financially and support continuous growth through reinvestment."
+        "Question": "Proč je pro startup důležité mít jasný ziskový model ve svém obchodním modelu?",
+        "CorrectAnswer": "Aby zajistil, že může udržet provoz a znovu investovat do růstu",
+        "WrongAnswer1": "Není to důležité",
+        "WrongAnswer2": "Aby minimalizoval provozní náklady",
+        "WrongAnswer3": "Aby splňoval mezinárodní obchodní standardy",
+        "Info": "Jasný ziskový model je klíčový pro definování toho, jak startup finančně udrží svůj provoz a podpoří neustálý růst prostřednictvím reinvestic."
     },
     {
-        "Question": "How does a startup's phase of development influence its business model choices?",
-        "CorrectAnswer": "Early phases might require more flexibility to pivot",
-        "WrongAnswer1": "Later phases focus exclusively on international expansion",
-        "WrongAnswer2": "All phases should prioritize rapid scaling over stability",
-        "WrongAnswer3": "The model should remain unchanged regardless of the phase",
-        "Info": "In early development phases, greater flexibility is often needed to allow for pivoting based on market feedback and emerging opportunities."
+        "Question": "Jak ovlivní fáze vývoje startupu jeho volby obchodního modelu?",
+        "CorrectAnswer": "V raných fázích může být vyžadována větší flexibilita pro pivotování",
+        "WrongAnswer1": "Pozdější fáze se zaměřují výhradně na mezinárodní expanzi",
+        "WrongAnswer2": "Ve všech fázích by mělo být prioritou rychlé škálování před stabilitou",
+        "WrongAnswer3": "Model by měl zůstat nezměněn bez ohledu na fázi",
+        "Info": "V raných fázích vývoje je často potřeba větší flexibilita, která umožní pivotování na základě zpětné vazby z trhu a se objevujícími se příležitostmi."
     }
 ],
 "Phase4" : 
